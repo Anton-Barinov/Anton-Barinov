@@ -7,56 +7,48 @@
       <stop offset="0.58" stop-color="#10231F"/>
       <stop offset="1" stop-color="#0F3A31"/>
     </linearGradient>
-    <linearGradient id="mark" x1="80" y1="80" x2="230" y2="230" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BDF8E8"/>
-      <stop offset="1" stop-color="#38B48F"/>
-    </linearGradient>
-    <linearGradient id="line" x1="80" y1="260" x2="1120" y2="260" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="96" y1="262" x2="1104" y2="262" gradientUnits="userSpaceOnUse">
       <stop stop-color="#38B48F" stop-opacity="0"/>
-      <stop offset="0.22" stop-color="#38B48F" stop-opacity="0.85"/>
-      <stop offset="0.78" stop-color="#8EE3C8" stop-opacity="0.85"/>
+      <stop offset="0.22" stop-color="#38B48F" stop-opacity="0.9"/>
+      <stop offset="0.78" stop-color="#8EE3C8" stop-opacity="0.9"/>
       <stop offset="1" stop-color="#8EE3C8" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
   <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
-  <path d="M80 260H1120" stroke="url(#line)" stroke-width="2"/>
+  <path d="M96 262H1104" stroke="url(#accent)" stroke-width="2"/>
 
-  <g opacity="0.12">
-    <path d="M92 74H1108" stroke="#D8FFF3"/>
-    <path d="M92 286H1108" stroke="#D8FFF3"/>
-    <path d="M92 74V286" stroke="#D8FFF3"/>
-    <path d="M1108 74V286" stroke="#D8FFF3"/>
+  <g opacity="0.10">
+    <path d="M96 74H1104" stroke="#D8FFF3"/>
+    <path d="M96 286H1104" stroke="#D8FFF3"/>
+    <path d="M96 74V286" stroke="#D8FFF3"/>
+    <path d="M1104 74V286" stroke="#D8FFF3"/>
   </g>
 
-  <g transform="translate(86 88)">
-    <rect width="142" height="142" rx="34" fill="#EFFFF9" opacity="0.98"/>
-    <path d="M44 34H82C104 34 118 48 118 68C118 88 104 102 82 102H44V34Z" fill="#10231F"/>
-    <path d="M62 55H81C90 55 96 60 96 68C96 76 90 81 81 81H62V55Z" fill="url(#mark)"/>
-    <path d="M30 108H72C94 108 112 126 112 148V150H90V148C90 138 82 130 72 130H30V108Z" transform="translate(0 -32)" fill="url(#mark)"/>
-    <rect x="28" y="106" width="86" height="10" rx="5" fill="#38B48F"/>
-  </g>
-
-  <text x="268" y="128" fill="#F7FFFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="800" letter-spacing="0">
+  <text x="94" y="122" fill="#8EE3C8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing="3">
+    PHP / MYSQL / OPENCART / CRM
+  </text>
+  <text x="94" y="181" fill="#F7FFFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="850" letter-spacing="0">
     Anton Barinov
   </text>
-  <text x="270" y="174" fill="#BFEBDD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">
-    PHP and OpenCart developer since 2009
-  </text>
-  <text x="270" y="211" fill="#DDFBF2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500">
+  <text x="96" y="225" fill="#DDFBF2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">
     CRM, online stores, integrations and self-hosted business platforms
   </text>
 
-  <g transform="translate(270 282)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">
-    <rect x="0" y="0" width="88" height="38" rx="19" fill="#EFFFF9"/>
-    <text x="22" y="25" fill="#10231F">PHP</text>
-    <rect x="104" y="0" width="118" height="38" rx="19" fill="#EFFFF9"/>
-    <text x="127" y="25" fill="#10231F">OpenCart</text>
-    <rect x="238" y="0" width="92" height="38" rx="19" fill="#EFFFF9"/>
-    <text x="260" y="25" fill="#10231F">MySQL</text>
-    <rect x="346" y="0" width="86" height="38" rx="19" fill="#EFFFF9"/>
-    <text x="368" y="25" fill="#10231F">CRM</text>
-    <rect x="448" y="0" width="112" height="38" rx="19" fill="#38B48F"/>
-    <text x="470" y="25" fill="#071512">TropaTT</text>
+  <g transform="translate(96 294)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="750">
+    <rect x="0" y="0" width="118" height="38" rx="19" fill="#EFFFF9"/>
+    <text x="24" y="25" fill="#10231F">Since 2009</text>
+    <rect x="134" y="0" width="118" height="38" rx="19" fill="#EFFFF9"/>
+    <text x="157" y="25" fill="#10231F">OpenCart</text>
+    <rect x="268" y="0" width="86" height="38" rx="19" fill="#EFFFF9"/>
+    <text x="290" y="25" fill="#10231F">CRM</text>
+    <rect x="370" y="0" width="130" height="38" rx="19" fill="#EFFFF9"/>
+    <text x="394" y="25" fill="#10231F">Integration</text>
+    <rect x="516" y="0" width="112" height="38" rx="19" fill="#38B48F"/>
+    <text x="538" y="25" fill="#071512">TropaTT</text>
   </g>
+
+  <text x="996" y="114" fill="#8EE3C8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="72" font-weight="850" opacity="0.16">
+    AB
+  </text>
 </svg>

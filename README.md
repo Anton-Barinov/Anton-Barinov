@@ -28,6 +28,10 @@
 
 ---
 
+<p align="center">
+  <strong>Можно обращаться за разработкой CRM, интернет-магазинов, OpenCart-проектов, интеграций, автоматизаций и внутренних бизнес-систем.</strong>
+</p>
+
 ## Focus
 
 I have been building OpenCart-based online stores and PHP business software since 2009. My work sits close to real operations: e-commerce, CRM, task tracking, project management, team workflows, shared hosting deployment, REST APIs, OpenAPI tooling, and AI-assisted productivity features.
