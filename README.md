@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Anton Barinov - PHP and OpenCart developer building TropaTT" width="100%">
+  <img src="assets/profile-banner.svg?v=20260605-opencart" alt="Anton Barinov - PHP and OpenCart developer building TropaTT" width="100%">
 </p>
 
 <p align="center">
