@@ -69,6 +69,17 @@ My main public project is **[TropaTT](https://github.com/Anton-Barinov/TropaTT)*
 | AI workflows | Idea analysis, planning, task support, preview-before-apply patterns |
 | Open source | Public docs, CI, release process, maintainer checklists, issue backlog |
 
+## Work With Me
+
+You can contact me for practical PHP/MySQL development work where business systems need to be reliable, understandable and connected to each other:
+
+- CRM development and customization for real company workflows.
+- Online store development, especially OpenCart-based projects.
+- Task managers, task trackers, admin panels and internal business tools.
+- Integrations between CRM, e-commerce, APIs, webhooks, payment systems, delivery services, analytics, chats and automation tools.
+- Shared-hosting friendly deployment, installer flows, database setup and production hardening.
+- AI-assisted workflow features where automation helps users make better decisions instead of hiding the process from them.
+
 ## Current OSS Work
 
 - Improve shared-hosting installation experience.
