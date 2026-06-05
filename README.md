@@ -1,7 +1,5 @@
-<h1 align="center">Anton Barinov</h1>
-
 <p align="center">
-  PHP developer building self-hosted business software, CRM systems, task management tools, automation workflows, and AI-assisted work platforms.
+  <img src="assets/profile-banner.svg" alt="Anton Barinov - PHP developer building TropaTT" width="100%">
 </p>
 
 <p align="center">
@@ -12,6 +10,8 @@
   <a href="https://github.com/Anton-Barinov/TropaTT/issues">Issues</a>
   ·
   <a href="https://github.com/Anton-Barinov/TropaTT/security/policy">Security</a>
+  ·
+  <a href="https://github.com/Anton-Barinov/TropaTT/tree/main/docs/maintainer">Maintainer docs</a>
 </p>
 
 <p align="center">
@@ -23,39 +23,43 @@
   </a>
   <img alt="PHP 8.1+" src="https://img.shields.io/badge/PHP-8.1%2B-4F5B93?logo=php&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-self--hosted-4479A1?logo=mysql&logoColor=white">
+  <img alt="Self-hosted" src="https://img.shields.io/badge/Self--hosted-no%20SaaS%20lock--in-12805C">
 </p>
 
 ---
 
-## What I build
+## Focus
 
-I work on practical software for real business operations: CRM, task tracking, project management, team workflows, shared hosting deployment, REST APIs, OpenAPI tooling, and AI-assisted productivity features.
+I build practical software for business operations: CRM, task tracking, project management, team workflows, shared hosting deployment, REST APIs, OpenAPI tooling, and AI-assisted productivity features.
 
-My main public project is **TropaTT**: a self-hosted PHP/MySQL CRM and work platform for freelancers, teams, agencies, operations, and companies that want to keep data on their own server instead of depending on a closed cloud account.
+My main public project is **[TropaTT](https://github.com/Anton-Barinov/TropaTT)**, a self-hosted PHP/MySQL CRM and work platform for freelancers, teams, agencies, operations, and companies that want their data on their own server.
 
-## Featured project
+<table>
+  <tr>
+    <td width="50%">
+      <h3>TropaTT</h3>
+      <p>
+        CRM, task manager, task tracker, project management, Kanban, Gantt, calendar, team chat, automation, REST API, OpenAPI generation, browser installation and AI-assisted workflows in one product.
+      </p>
+      <p>
+        <a href="https://github.com/Anton-Barinov/TropaTT"><strong>Open repository &rarr;</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Why self-hosted</h3>
+      <ul>
+        <li>Data stays under the owner's control.</li>
+        <li>Works on ordinary PHP/MySQL hosting.</li>
+        <li>No artificial SaaS user limits.</li>
+        <li>Open-source process: CI, releases, issues, security policy and maintainer docs.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### [TropaTT](https://github.com/Anton-Barinov/TropaTT)
+## Technical Map
 
-TropaTT combines CRM, task manager, task tracker, project management, Kanban, Gantt, calendar, team chat, automation, REST API, OpenAPI generation, browser installation, and AI-assisted workflows in one self-hosted product.
-
-Why it matters:
-
-- Runs on ordinary PHP/MySQL hosting, including shared hosting.
-- Keeps business data under the owner's control.
-- Avoids SaaS user limits and cloud lock-in.
-- Includes a browser installer for simpler deployment.
-- Provides open-source project files: README, license, security policy, contribution guide, code of conduct, roadmap, changelog, AGENTS.md, CI, releases, issues, and maintainer docs.
-
-Repository:
-
-- Main repo: [Anton-Barinov/TropaTT](https://github.com/Anton-Barinov/TropaTT)
-- First public preview: [v0.1.0](https://github.com/Anton-Barinov/TropaTT/releases/tag/v0.1.0)
-- Public hardening milestone: [v0.1.x Public Preview Hardening](https://github.com/Anton-Barinov/TropaTT/milestones)
-
-## Technical focus
-
-| Area | Focus |
+| Area | What I care about |
 | --- | --- |
 | Backend | PHP 8.1+, custom micro-kernel, REST API, RBAC, installer flows |
 | Database | MySQL, migrations, repositories, data ownership |
@@ -64,7 +68,7 @@ Repository:
 | AI workflows | Idea analysis, planning, task support, preview-before-apply patterns |
 | Open source | Public docs, CI, release process, maintainer checklists, issue backlog |
 
-## Current open-source priorities
+## Current OSS Work
 
 - Improve shared-hosting installation experience.
 - Add screenshots and product walkthroughs for TropaTT.
@@ -73,25 +77,19 @@ Repository:
 - Document webhook security and OpenAPI consistency checks.
 - Keep the project friendly for contributors and coding agents.
 
-## For contributors and reviewers
+## Start Here
 
-If you are reviewing TropaTT or want to contribute, start here:
-
-- [README](https://github.com/Anton-Barinov/TropaTT#readme)
-- [AGENTS.md](https://github.com/Anton-Barinov/TropaTT/blob/main/AGENTS.md)
-- [CONTRIBUTING.md](https://github.com/Anton-Barinov/TropaTT/blob/main/CONTRIBUTING.md)
-- [SECURITY.md](https://github.com/Anton-Barinov/TropaTT/blob/main/SECURITY.md)
-- [Maintainer docs](https://github.com/Anton-Barinov/TropaTT/tree/main/docs/maintainer)
-
-## Contact
-
-The best place to discuss TropaTT is the public repository:
-
-- Questions and installation feedback: [GitHub Issues](https://github.com/Anton-Barinov/TropaTT/issues)
-- Security reports: [Security policy](https://github.com/Anton-Barinov/TropaTT/security/policy)
+| Need | Link |
+| --- | --- |
+| Product overview | [TropaTT README](https://github.com/Anton-Barinov/TropaTT#readme) |
+| First public preview | [v0.1.0 release](https://github.com/Anton-Barinov/TropaTT/releases/tag/v0.1.0) |
+| Contributor guide | [CONTRIBUTING.md](https://github.com/Anton-Barinov/TropaTT/blob/main/CONTRIBUTING.md) |
+| Coding-agent guide | [AGENTS.md](https://github.com/Anton-Barinov/TropaTT/blob/main/AGENTS.md) |
+| Security reports | [SECURITY.md](https://github.com/Anton-Barinov/TropaTT/security/policy) |
+| Hardening backlog | [v0.1.x milestone](https://github.com/Anton-Barinov/TropaTT/milestones) |
 
 ---
 
 <p align="center">
-  Building self-hosted tools for people who want useful software, local control, and fewer artificial limits.
+  Building self-hosted tools for people who want useful software, local control and fewer artificial limits.
 </p>
