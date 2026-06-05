@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Anton Barinov - PHP developer building TropaTT" width="100%">
+  <img src="assets/profile-banner.svg" alt="Anton Barinov - PHP and OpenCart developer building TropaTT" width="100%">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## Focus
 
-I build practical software for business operations: CRM, task tracking, project management, team workflows, shared hosting deployment, REST APIs, OpenAPI tooling, and AI-assisted productivity features.
+I have been building OpenCart-based online stores and PHP business software since 2009. My work sits close to real operations: e-commerce, CRM, task tracking, project management, team workflows, shared hosting deployment, REST APIs, OpenAPI tooling, and AI-assisted productivity features.
 
 My main public project is **[TropaTT](https://github.com/Anton-Barinov/TropaTT)**, a self-hosted PHP/MySQL CRM and work platform for freelancers, teams, agencies, operations, and companies that want their data on their own server.
 
@@ -62,6 +62,7 @@ My main public project is **[TropaTT](https://github.com/Anton-Barinov/TropaTT)*
 | Area | What I care about |
 | --- | --- |
 | Backend | PHP 8.1+, custom micro-kernel, REST API, RBAC, installer flows |
+| E-commerce | OpenCart stores, catalog logic, checkout flows, shared hosting realities |
 | Database | MySQL, migrations, repositories, data ownership |
 | Frontend | PHP-rendered UI, Bootstrap, vanilla JavaScript, practical CRM interfaces |
 | Security | Authentication, CSRF, RBAC, file access, webhooks, safe error handling |

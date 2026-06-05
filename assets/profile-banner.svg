@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Anton Barinov - PHP developer building TropaTT</title>
-  <desc id="desc">A dark green GitHub profile banner for Anton Barinov, PHP developer and creator of TropaTT.</desc>
+  <title id="title">Anton Barinov - PHP and OpenCart developer building TropaTT</title>
+  <desc id="desc">A dark green GitHub profile banner for Anton Barinov, PHP and OpenCart developer since 2009 and creator of TropaTT.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#071512"/>
@@ -46,7 +46,7 @@
     Anton Barinov
   </text>
   <text x="192" y="160" fill="#BFEBDD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">
-    PHP developer building self-hosted CRM, task management and AI-assisted work platforms
+    PHP and OpenCart developer since 2009, building self-hosted CRM and AI-assisted work platforms
   </text>
 
   <g transform="translate(192 205)" fill="none" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">
